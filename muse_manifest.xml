@@ -1,0 +1,393 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="s2.com" resolutions="1x" timestamp="1578068184560">
+  <folder name="css">
+    <file name="site_global.css" crc="312001045"/>
+    <file name="master_b-p_g_-maestra---textos.css" crc="3824530138" ref="lorena-b:javi-b:tiago-b:mauricio-b:garden-of-eden:juan-pablo-b:manifesto-b:leslie-b:adjuy-2---copia:intro"/>
+    <file name="lorena-b.css" crc="12941609" ref="lorena-b"/>
+    <file name="javi-b.css" crc="4132735971" ref="javi-b"/>
+    <file name="santos.css" crc="3955021212" ref="santos"/>
+    <file name="mish-5.css" crc="221694991" ref="mish-5"/>
+    <file name="mish-1.css" crc="4288566524" ref="mish-1"/>
+    <file name="mish-2.css" crc="4028732467" ref="mish-2"/>
+    <file name="tiago-b.css" crc="348388352" ref="tiago-b"/>
+    <file name="nat.css" crc="303232025" ref="nat"/>
+    <file name="mauricio-b.css" crc="4010833578" ref="mauricio-b"/>
+    <file name="mish-3.css" crc="296365935" ref="mish-3"/>
+    <file name="garden-of-eden.css" crc="4206272522" ref="garden-of-eden"/>
+    <file name="juan-pablo-b.css" crc="17428370" ref="juan-pablo-b"/>
+    <file name="nat-2.css" crc="84222754" ref="nat-2"/>
+    <file name="we.css" crc="469769080" ref="we"/>
+    <file name="andres---copia.css" crc="3833975447" ref="andres---copia"/>
+    <file name="nosotros.css" crc="4276688116" ref="nosotros"/>
+    <file name="manifesto-b.css" crc="455294810" ref="manifesto-b"/>
+    <file name="nicolas-guillen---copia.css" crc="157010310" ref="nicolas-guillen---copia"/>
+    <file name="feli-b.css" crc="4201943278" ref="feli-b"/>
+    <file name="nicolas-guillen.css" crc="4216973582" ref="nicolas-guillen"/>
+    <file name="mish-4.css" crc="11993158" ref="mish-4"/>
+    <file name="leslie-b.css" crc="295777277" ref="leslie-b"/>
+    <file name="index.css" crc="4202785521" ref="index"/>
+    <file name="nat-3.css" crc="501874525" ref="nat-3"/>
+    <file name="adjuy-2---copia.css" crc="209127017" ref="adjuy-2---copia"/>
+    <file name="andres.css" crc="4107131813" ref="andres"/>
+    <file name="manifesto.css" crc="4173937066" ref="manifesto"/>
+    <file name="michelle.css" crc="3990153584" ref="michelle"/>
+    <file name="ana-b.css" crc="380661164" ref="ana-b"/>
+    <file name="intro.css" crc="384342662" ref="intro"/>
+  </folder>
+  <folder name="fonts">
+    <file name="avara.woff" crc="4042143113"/>
+    <file name="avara.eot" crc="4293171986"/>
+    <file name="avara.svg" crc="4256791073"/>
+  </folder>
+  <folder name="assets">
+    <file name="mauricio-prueba.mp3" crc="3975224792" seo="true" mt="1555272996000"/>
+    <file name="ste-002.wav" crc="4193623560" seo="true" mt="1216166688000"/>
+    <file name="banana-split.mp4" crc="72790843" seo="true" mt="1556570054000"/>
+    <file name="banana-split.webm" crc="4207738850" seo="true" mt="1556570514000"/>
+    <file name="audio_banana-split_1.mp3" crc="22232358" seo="true" mt="1556570692000"/>
+    <file name="comp-3.flv" crc="4183930844" seo="true" mt="1557433257000"/>
+    <file name="secuencia-01_2.mp4" crc="410751285" seo="true" mt="1557425422000"/>
+    <file name="secuencia-01.mp4" crc="3909987329" seo="true" mt="1557432891000"/>
+    <file name="secuencia-01_1.mp4" crc="4135299985" seo="true" mt="1557425415000"/>
+    <file name="secuencia-01_1.webm" crc="3931078471" seo="true" mt="1557614154000"/>
+    <file name="secuencia-01.webm" crc="207616615" seo="true" mt="1557614300000"/>
+    <file name="secuencia-01_2.webm" crc="3877882189" seo="true" mt="1557614295000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="museutils.js" crc="340535759" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="whatinput.js" crc="86476730" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="museconfig.js" crc="4286661555" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="jquery.watch.js" crc="51536988" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="santos:andres:nicolas-guillen:index:feli-b:adjuy-2---copia:ana-b:andres---copia"/>
+    <file name="require.js" crc="7928878" ref="santos:manifesto:andres:we:nosotros:nicolas-guillen:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:index:nat:nat-2:nat-3:mauricio-b:javi-b:juan-pablo-b:feli-b:adjuy-2---copia:ana-b:lorena-b:nicolas-guillen---copia:andres---copia:manifesto-b:leslie-b:garden-of-eden:tiago-b:intro"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="nat:nat-2:nat-3:feli-b"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u79650.php" crc="3891885396" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="libro_0000_stefano-harney---fred-moten.png" crc="282396858" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0001_le-maître-ignorant.png" crc="3781442310" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0002_taniel-morales.png" crc="3784538267" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0003_paulo-freire.png" crc="3923860930" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0004_narrativas-históricas-e-imágenes-políticas-en-la-obra-de-josé-a.png" crc="35566205" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0005_l-international.png" crc="4003275431" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0006_atlas-of-poetic-botany.png" crc="3964235933" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0007_poems.png" crc="3832800272" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0008_la-invención-de-la-distancia.png" crc="434534363" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0009_venas-abiertas-de-latinoamerica.png" crc="4050415791" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="libro_0010_boaventura-de-sousa-santos.png" crc="337808527" seo="true" ref="santos">
+      <caption webpage="santos" alt=""/>
+    </file>
+    <file name="flor-102-10.svg" crc="4184108686" seo="true" ref="andres:andres---copia">
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+    </file>
+    <file name="flor-102-10_poster_.png" crc="4032846127" ref="andres"/>
+    <file name="templos-06.svg" crc="4167805701" seo="true" ref="andres:andres---copia">
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+    </file>
+    <file name="templos-06_poster_.png" crc="3802167936" ref="andres"/>
+    <file name="agua.gif" crc="139268849" seo="true" ref="andres:andres---copia">
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+      <caption webpage="andres" alt=""/>
+    </file>
+    <file name="ilustraciones-textos-07.svg" crc="4199842955" seo="true" ref="andres:andres---copia">
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres" alt=""/>
+    </file>
+    <file name="ilustraciones textos-07_poster_.png" crc="4277101315" ref="andres"/>
+    <file name="templos-05.svg" crc="483763126" seo="true" ref="andres:andres---copia">
+      <caption webpage="andres---copia" alt=""/>
+      <caption webpage="andres" alt=""/>
+    </file>
+    <file name="templos-05_poster_.png" crc="3915633748" ref="andres"/>
+    <file name="captura de pantalla 2019-05-07 a la(s) 90928 a m.jpg" crc="331904430" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91441 a m.jpg" crc="158451532" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 90734 a m.jpg" crc="201490227" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 90824 a m.jpg" crc="4073828878" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 90854 a m.jpg" crc="4249902684" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91156 a m.jpg" crc="4174718750" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91538 a m.jpg" crc="3899587780" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91720 a m.jpg" crc="180767519" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 93523 a m.jpg" crc="4093294073" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 93655 a m.jpg" crc="152281679" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91806 a m.jpg" crc="296404065" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 91854 a m.jpg" crc="3911776724" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-07 a la(s) 92310 a m.jpg" crc="3823472822" seo="true" ref="we">
+      <caption webpage="we" alt=""/>
+    </file>
+    <file name="victor_hugo_by_étienne_carjat_1876_-_full.jpg" crc="143760189" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="bismarck_pickelhaube.jpg" crc="4071344484" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="julián_suárez_inclán,_de_compañy.jpg" crc="4284033839" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="1920px-aconcagua2016.jpg" crc="145906763" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="800px-martin_tovar_y_tovar_12.jpg" crc="507665119" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="josé_martí_retrato_más_conocido_jamaica_1892.jpg" crc="4133901268" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="nicolásguillén-1942.jpg" crc="86668681" seo="true" ref="nicolas-guillen:nicolas-guillen---copia">
+      <caption webpage="nicolas-guillen---copia" alt=""/>
+      <caption webpage="nicolas-guillen" alt=""/>
+    </file>
+    <file name="08-daydream-comics-1.svg" crc="3952594978" seo="true" ref="mish-1">
+      <caption webpage="mish-1" alt=""/>
+    </file>
+    <file name="08 daydream comics-1_poster_.png" crc="467341822" ref="mish-1"/>
+    <file name="08-daydream-comics-2.svg" crc="4237409789" seo="true" ref="mish-2">
+      <caption webpage="mish-2" alt=""/>
+    </file>
+    <file name="08 daydream comics-2_poster_.png" crc="382125391" ref="mish-2"/>
+    <file name="08-daydream-comics-4.svg" crc="384176431" seo="true" ref="mish-3">
+      <caption webpage="mish-3" alt=""/>
+    </file>
+    <file name="08-daydream-comics-4_poster_.png" crc="3791488200" ref="mish-3"/>
+    <file name="08-daydream-comics-5.svg" crc="113773155" seo="true" ref="mish-4">
+      <caption webpage="mish-4" alt=""/>
+    </file>
+    <file name="08-daydream-comics-5_poster_.png" crc="3821033056" ref="mish-4"/>
+    <file name="08-daydream-comics-3.svg" crc="203177943" seo="true" ref="mish-5">
+      <caption webpage="mish-5" alt=""/>
+    </file>
+    <file name="08 daydream comics-3_poster_.png" crc="219285612" ref="mish-5"/>
+    <file name="blank.gif" crc="4208392903" ref="index:intro:garden-of-eden"/>
+    <file name="captura de pantalla 2019-05-11 a la(s) 112251 p m.jpg" crc="490485978" ref="nat">
+      <caption webpage="nat" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-11 a la(s) 112349 p m.jpg" crc="236583840" ref="nat-2">
+      <caption webpage="nat-2" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-05-11 a la(s) 112402 p m.jpg" crc="118471036" ref="nat-3">
+      <caption webpage="nat-3" alt=""/>
+    </file>
+    <file name="postal-03.svg" crc="404913887" seo="true" ref="feli-b">
+      <caption webpage="feli-b" alt=""/>
+    </file>
+    <file name="postal-03_poster_.png" crc="285131141" ref="feli-b"/>
+    <file name="captura-de-pantalla-2019-04-10-a-la(s)-64603-a-m.png" crc="4209113811" seo="true" ref="feli-b">
+      <caption webpage="feli-b" alt=""/>
+      <caption webpage="feli-b" alt=""/>
+    </file>
+    <file name="bananeras_0.jpg" crc="3886983191" seo="true" ref="feli-b">
+      <caption webpage="feli-b" alt=""/>
+    </file>
+    <file name="postal-02.svg" crc="3851066067" seo="true" ref="feli-b">
+      <caption webpage="feli-b" alt=""/>
+    </file>
+    <file name="postal-02_poster_.png" crc="276648510" ref="feli-b"/>
+    <file name="captura de pantalla 2019-04-29 a la(s) 94608 p m.jpg" crc="4121319291" ref="feli-b">
+      <caption webpage="feli-b" alt=""/>
+    </file>
+    <file name="punubranly.jpg" crc="331578464" seo="true" ref="ana-b">
+      <caption webpage="ana-b" alt=""/>
+    </file>
+    <file name="animplants-02.svg" crc="485589544" seo="true" ref="garden-of-eden">
+      <caption webpage="garden-of-eden" alt=""/>
+    </file>
+    <file name="animplants-02_poster_.png" crc="3853012957" ref="garden-of-eden"/>
+  </folder>
+  <file name="santos.html" crc="98373748" seo="true" mt="1578067813329" redirect="true"/>
+  <file name="manifesto.html" crc="391356316" seo="true" mt="1574257696293" redirect="true"/>
+  <file name="andres.html" crc="3944795657" seo="true" mt="1577734571056" redirect="true"/>
+  <file name="we.html" crc="49906527" seo="true" mt="1574438262997" redirect="true"/>
+  <file name="nosotros.html" crc="501850023" seo="true" mt="1574257696295" redirect="true"/>
+  <file name="nicolas-guillen.html" crc="4005122142" seo="true" mt="1557658968706" redirect="true"/>
+  <file name="michelle.html" crc="3877353350" seo="true" mt="1578063638151" redirect="true"/>
+  <file name="mish-1.html" crc="4083203429" seo="true" mt="1574439030523" redirect="true"/>
+  <file name="mish-2.html" crc="3882123989" seo="true" mt="1574439262179" redirect="true"/>
+  <file name="mish-3.html" crc="380192311" seo="true" mt="1574439814944" redirect="true"/>
+  <file name="mish-4.html" crc="438771595" seo="true" mt="1574439965875" redirect="true"/>
+  <file name="mish-5.html" crc="107094066" seo="true" mt="1574440065558" redirect="true"/>
+  <file name="index.html" crc="265622622" seo="true" mt="1578067335653" redirect="true"/>
+  <file name="nat.html" crc="4214035232" seo="true" mt="1574438608603" redirect="true"/>
+  <file name="nat-2.html" crc="378433102" seo="true" mt="1574438636373" redirect="true"/>
+  <file name="nat-3.html" crc="4201336893" seo="true" mt="1574438659820" redirect="true"/>
+  <file name="mauricio-b.html" crc="4190528248" seo="true" mt="1574257196583" redirect="true"/>
+  <file name="javi-b.html" crc="399641305" seo="true" mt="1574257210535" redirect="true"/>
+  <file name="juan-pablo-b.html" crc="4276854320" seo="true" mt="1574257696301" redirect="true"/>
+  <file name="feli-b.html" crc="247009593" seo="true" mt="1574257696302" redirect="true"/>
+  <file name="adjuy-2---copia.html" crc="315538734" seo="true" mt="1574437583388" redirect="true"/>
+  <file name="ana-b.html" crc="3910763309" seo="true" mt="1574437056408" redirect="true"/>
+  <file name="lorena-b.html" crc="4005373543" seo="true" mt="1574437306896" redirect="true"/>
+  <file name="nicolas-guillen---copia.html" crc="4077040614" seo="true" mt="1578063501944" redirect="true"/>
+  <file name="andres---copia.html" crc="328332042" seo="true" mt="1577732880253" redirect="true"/>
+  <file name="manifesto-b.html" crc="3798842873" seo="true" mt="1574438376129" redirect="true"/>
+  <file name="leslie-b.html" crc="4177068192" seo="true" mt="1574438401620" redirect="true"/>
+  <file name="garden-of-eden.html" crc="3901124047" seo="true" mt="1578067963302" redirect="true"/>
+  <file name="tiago-b.html" crc="3927846602" seo="true" mt="1575982773870" redirect="true"/>
+  <file name="intro.html" crc="4234548146" seo="true" mt="1578063733599" redirect="true"/>
+</manifest>
