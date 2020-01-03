@@ -1,0 +1,47 @@
+body {
+background: linear-gradient(-90deg, #000000, #f50000, #f9ff00, #f34713, #000000, #000000);
+	background-size: 800% 800%;
+	-webkit-animation: Gradient 5s ease infinite;
+	-moz-animation: Gradient 5s ease infinite;
+	animation: Gradient 5s ease infinite;
+	cursor: crosshair;
+
+}
+
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+.version.ana_b{color:#000016;background-color:#B06DAC;}#page{z-index:1;width:700px;min-height:438px;background-image:none;border-width:0px;border-color:#000000;background-color:#FFFFFF;margin-left:auto;margin-right:auto;}#pu81753-124{z-index:2;width:0.01px;padding-bottom:0px;margin-right:-10000px;margin-top:121px;margin-left:59px;}#u81753-124{z-index:2;width:375px;min-height:6733px;background-color:transparent;color:#000000;font-size:16px;line-height:19px;font-family:rialto-piccolo-df, serif;font-weight:400;position:relative;}#u81915{z-index:175;width:220px;height:76px;margin-left:181px;margin-top:147px;position:relative;}.ie #u81915{background-color:#FFFFFF;opacity:0.01;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";filter:alpha(opacity=1);}#pu81769-5{z-index:126;width:0.01px;margin-right:-10000px;margin-top:468px;margin-left:465px;}#u81769-5{z-index:126;width:188px;min-height:278px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;position:relative;}#u81771-5{z-index:131;width:188px;min-height:73px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:24px;position:relative;}#u81778-5{z-index:136;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:24px;position:relative;}#u81785-5{z-index:141;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:23px;position:relative;}#u81766-5{z-index:146;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:862px;position:relative;}#u81758-9{z-index:151;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:33px;position:relative;}#u81749-5{z-index:160;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:3091px;position:relative;}#u81949{z-index:176;width:117px;background-color:transparent;margin-left:35px;margin-top:738px;position:relative;}.js #u81769-5.ose_pre_init,.js #u81771-5.ose_pre_init,.js #u81778-5.ose_pre_init,.js #u81785-5.ose_pre_init,.js #u81766-5.ose_pre_init,.js #u81758-9.ose_pre_init,.js #u81949.ose_pre_init{opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);}#u81867-5{z-index:165;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:289px;position:relative;}#u81854-5{z-index:170;width:188px;min-height:84px;background-color:transparent;color:#000000;font-size:12px;line-height:14px;font-family:rialto-piccolo-df, serif;font-weight:400;margin-top:260px;position:relative;}.css_verticalspacer .verticalspacer{height:calc(100vh - 7874px);}#muse_css_mq,.html{background-color:#FFFFFF;}body{position:relative;min-width:700px;}

@@ -1,0 +1,47 @@
+body {
+background: linear-gradient(-45deg, #01b400, #4bff38, #00d208, #00ffc9, #e3b600, #00981a, #00981a, #00fdc7);
+	background-size: 800% 800%;
+	-webkit-animation: Gradient 5s ease infinite;
+	-moz-animation: Gradient 5s ease infinite;
+	animation: Gradient 5s ease infinite;
+	cursor: crosshair;
+
+}
+
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+.version.garden_of_eden{color:#0000FA;background-color:#B6A00A;}#page{z-index:1;min-height:438px;background-image:none;border-width:0px;border-color:#000000;background-color:transparent;padding-bottom:62px;width:100%;max-width:700px;margin-left:auto;margin-right:auto;}#u100073{z-index:2;-webkit-transition-duration:1s;-webkit-transition-delay:0s;-webkit-transition-timing-function:ease;transition-duration:1s;transition-delay:0s;transition-timing-function:ease;background-image:url("../images/blank.gif?crc=4208392903");background-color:transparent;position:relative;margin-right:-10000px;width:100%;}#u100069{z-index:3;display:block;width:100%;}#u100080-25{z-index:4;min-height:343px;background-color:transparent;line-height:19px;font-size:16px;color:#000000;font-family:rialto-piccolo-df, serif;font-weight:400;position:relative;margin-right:-10000px;margin-top:62px;width:61.58%;left:19.15%;}#u78365{z-index:29;height:62px;position:relative;margin-right:-10000px;width:18%;margin-left:41%;left:-10px;}.ie #u78365{background-color:#FFFFFF;opacity:0.01;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";filter:alpha(opacity=1);margin-left:41%;left:-10px;}.css_verticalspacer .verticalspacer{height:calc(100vh - 845px);}#muse_css_mq,.html{background-color:#FFFFFF;}body{position:relative;min-width:320px;}
